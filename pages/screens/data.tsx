@@ -11,7 +11,7 @@ const Data: () => Node = () => {
                 title: '밥먹기',
                 content: '셀러드먹기',
                 place: '우리집',
-                ranking: '2순위',
+                ranking: '3순위',
             })
             .then((res) => {
                 console.log(res)
